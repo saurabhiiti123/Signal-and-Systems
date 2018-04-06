@@ -1,1 +1,3 @@
 https://github.com/davidspringer/Schmidt-Segmentation-Code/blob/master/getHeartRateSchmidt.m
+http://file.scirp.org/Html/2-7601216_78015.htm
+http://www.peterjbentley.com/heartchallenge/
