@@ -1,3 +1,0 @@
-https://github.com/davidspringer/Schmidt-Segmentation-Code/blob/master/getHeartRateSchmidt.m
-
-https://en.wikipedia.org/wiki/Phonocardiogram
