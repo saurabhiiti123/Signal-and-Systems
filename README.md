@@ -5,3 +5,7 @@ project guide- Dr. Ram Bilas Panchori
 the code is written in python programming language,
 the final code is FFT-python
                   fourier_code.py
+                  
+how to run(for ubuntu)-
+open terminal 
+python3 fourier_code.py
